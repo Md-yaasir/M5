@@ -27,7 +27,8 @@ int main() {
 
 ## OUTPUT:
 
- 	![Screenshot 2025-04-27 130141](https://github.com/user-attachments/assets/867e57c1-84fc-428c-bf63-c42b9bc4d55e)
+![Screenshot 2025-04-27 130141](https://github.com/user-attachments/assets/fc17ed07-8296-42c2-9fd7-b3c8c6726dfb)
+
 
 
 ## RESULT:
